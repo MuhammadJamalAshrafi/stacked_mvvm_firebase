@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "475230642075",
+    "project_id": "stacked-mvvm",
+    "storage_bucket": "stacked-mvvm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475230642075:android:736c1181ec4549b634cb3e",
+        "android_client_info": {
+          "package_name": "com.example.stacked_mvvm_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475230642075-iuldkhu4evbf5bu5n9pd0p4ivek2n2ok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuqCGno32yx3QU3bTxVE1WJwBzeVEGjbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475230642075-iuldkhu4evbf5bu5n9pd0p4ivek2n2ok.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "475230642075-kmclru1idiaeprmb2n441p70i7jm5njh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.stackedMvvmFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
